@@ -13,17 +13,17 @@ latest industry trends, and committed to continuously improving my skills</h6>
 
 
 ## 🔗 Links
-<!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://surajverma008.netlify.app/)
+<!---[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://surajverma008.netlify.app/)
 </br>
-[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1D3bOpHof44zU781bgV0P_833osjjjYlz/view?usp=sharing)-->
+[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1D3bOpHof44zU781bgV0P_833osjjjYlz/view?usp=sharing)--->
 
 
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/surajverma008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajverma008" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
-<a href="https://www.instagram.com/suraj_m0r0x7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/swetaverma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetaverma96" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://leetcode.com/vermasuraj/" target="blank"><img align="center"
-src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+src="" alt="" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 
