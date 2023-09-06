@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World. 👋 I'm Suraj Verma</h1>
+<h1 align="center">Hello, World. 👋 I'm Sweta Verma</h1>
 
 <h6 align="center">Highly motivated and result-driven software engineer, passionate about delivering high-
 quality software solutions.Experienced in developing robust backends using Play,
@@ -7,15 +7,15 @@ latest industry trends, and committed to continuously improving my skills</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=flat" alt="vermasuraj11011" /> </p>
 
-- 🌱 I’m currently learning  **Python / React**
+- 🌱 I’m currently learning  **Java**
 
-- 💬 Ask me about  **Scala / Play / JAVA / SpringBoot / DSA**
+- 💬 Ask me about  **JAVA / SpringBoot / Linux**
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://surajverma008.netlify.app/)
+<!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://surajverma008.netlify.app/)
 </br>
-[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1D3bOpHof44zU781bgV0P_833osjjjYlz/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1D3bOpHof44zU781bgV0P_833osjjjYlz/view?usp=sharing)-->
 
 
 <h2 align="left">☕ Let's Connect</h2>
